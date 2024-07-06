@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/abhi-karanke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhi-karanke" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sesrc_81" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sesrc_81" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abhishek karanke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhishek karanke" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/abhi_karanke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhishek karanke" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abhishek_karanke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhishek_karanke" height="30" width="40" /></a>
 </p>
 
