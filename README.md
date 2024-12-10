@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" alt="">
 <h1 align="center">Hi 👋, I'm Abhishek Sudam Karanke</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-karanke&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-karanke" /> </p>
 
